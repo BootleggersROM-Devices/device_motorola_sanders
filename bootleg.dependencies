@@ -1,0 +1,18 @@
+[
+  {
+    "repository":  "rajadeja/kernel_motorola_msm8953",
+    "target_path": "kernel/motorola/msm8953",
+    "branch":      "o8x-caf"
+  },
+  {
+    "repository":  "rajadeja/vendor_motorola_sanders",
+    "target_path": "vendor/motorola/sanders",
+    "branch":      "oreo-mr1"
+  },  
+  {
+    "remote":      "github",
+    "repository":  "PixelExperience/packages_resources_MotoActions",
+    "target_path": "packages/resources/MotoActions",
+    "branch":      "oreo-mr1"
+  }
+]
